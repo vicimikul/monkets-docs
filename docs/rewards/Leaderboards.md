@@ -1,10 +1,13 @@
 ---
 sidebar_position: 3
+id: Leaderboards
+name: Leaderboards
+slug: /docs/rewards/Leaderboards
 ---
 
 # Leaderboards
 
-We implemented couple of leaderboards to help people compete and display their achievements among the community. We are considering an epoch mechanism where the leaderboard will be reset every month, and at the end of every epoch, the top users will be rewarded. 
+We implemented couple of leaderboards to help people compete and display their achievements among the community. We are considering an epoch mechanism where the leaderboard will be reset every month, and at the end of every epoch, the top users will be rewarded using the [Community Vault](/docs/rewards/CommunityVault).
 
 ## Creator Leaderboard
 
@@ -20,6 +23,6 @@ The volume leaderboard is a leaderboard that displays the top traders on the pla
 
 ## Referral Leaderboard
 
-The referral leaderboard is a leaderboard that displays the top referrers on the platform based on the number of users they have referred. 
+The referral leaderboard is a leaderboard that displays the top referrers on the platform based on the number of users they have referred.
 
-More details coming soon...
+Read more about the [Referrals](/docs/rewards/Referrals) system.
