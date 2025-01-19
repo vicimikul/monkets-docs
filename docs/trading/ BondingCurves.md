@@ -1,7 +1,8 @@
 ---
 sidebar_position: 2
 id: bonding-curves
-title: Bonding Curves
+name: Bonding Curves
+slug: /docs/trading/bonding-curves
 ---
 
 # Bonding Curves
@@ -22,9 +23,9 @@ There are 2 main types of bonding curves, and the type can be chosen when creati
 
 On token creation, an associated bonding curve is created and mints 1 billion tokens which will be used for trading.
 
-The initial Market Cap of a Bonding Curve is 1.917557907 ETH.
+The initial Market Cap of a Bonding Curve is approximately 2 ETH.
 
-The tokens have a starting price of 0.000001917557907 ETH.
+The tokens have an approximate starting price of 0.000002 ETH.
 
 This is required to ensure that there's a starting price for the underlying token.
 

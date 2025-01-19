@@ -1,5 +1,8 @@
 ---
 sidebar_position: 2
+id: Referrals
+name: Referrals
+slug: /docs/rewards/Referrals
 ---
 
 # Referrals

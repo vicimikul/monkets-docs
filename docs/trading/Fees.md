@@ -1,5 +1,8 @@
 ---
 sidebar_position: 2
+id: Fees
+name: Fees
+slug: /docs/trading/Fees
 ---
 
 # Fees
@@ -12,7 +15,7 @@ There's no perceivable fee to create a token. The only cost is the cost of the g
 
 ## Buying and Selling Fees
 
-Every time a user buys or sells a token, they pay a fee of 1% of the transaction amount, which is being collected in the following way: 
+Every time a user buys or sells a token, they pay a fee of 1% of the transaction amount, which is being collected in the following way:
 
 - on BUY orders, a 1% ETH value is added to the transaction amount, on top of the desired ETH amount
 - on SELL orders, a 1% ETH value is subtracted from the ETH amount the user should receive
@@ -24,4 +27,3 @@ Whenever a token bonding curve is filled, a 0.33 ETH fee is being collected befo
 - 0.11 ETH is being collected by the protocol
 - 0.11 ETH is being collected by the creator
 - 0.11 ETH is being collected by the community vault
-

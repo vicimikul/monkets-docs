@@ -1,18 +1,20 @@
 ---
 sidebar_position: 1
+id: CreateToken
+name: Create a Token
+slug: /docs/trading/CreateToken
 ---
 
 # Create a Token
 
 Anyone can create a token on Lunipump in just a couple of seconds.
 
-## About 
+## About
 
+The token supply is fixed to 1 billion tokens and will is distrubted as following:
 
-The token supply is fixed to 1 billion tokens and will is distrubted as following: 
 - Approximately 800M goes to the Bonding Curve and are trabable on Lunipump.
 - The remaining 200M is reserved for the Uniswap initial liquidity required once the bonding curve is filled.
-
 
 ## Prerequisites
 
@@ -21,7 +23,6 @@ To create a token, you need to have a wallet connected to Lunipump. You can conn
 Once you have connected your wallet, you can click on the _Create Token_ button.
 
 ## Creating a Token
-
 
 There's some mandatory fields that you need to fill in:
 

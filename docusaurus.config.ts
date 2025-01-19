@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
 	title: "Lunipump Docs",
 	tagline: "Lunitics Trading Docs",
-	favicon: "img/favicon.ico",
+	favicon: "img/logo-lunipump.svg",
 
 	// Set the production url of your site here
 	url: "https://your-docusaurus-site.example.com",

@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
 id: community-vault
-title: Community Vault
+name: Community Vault
+slug: /docs/rewards/CommunityVault
 ---
 
 # Community Vault

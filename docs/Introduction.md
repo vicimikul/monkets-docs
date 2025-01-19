@@ -21,6 +21,6 @@ Unichain is the newest blockchain that is being built on top of Ethereum. It is 
 
 Deploy your first token using our guide on how to [Create a Token](/docs/trading/CreateToken).
 
-To learn more about the bonding curves check our [Bonding Curves](/docs/trading/BondingCurves) docs.
+To learn more about the bonding curves check our [Bonding Curves](/docs/trading/bonding-curves) docs.
 
-To learn more about the rewards system check our [Rewards](/docs/rewards) section.
+To learn more about the rewards system check our [Leaderboards](/docs/rewards/Leaderboards) section.
