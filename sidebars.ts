@@ -21,9 +21,9 @@ const sidebars: SidebarsConfig = {
 			label: "Trading",
 			items: [
 				"trading/bonding-curves",
-				"trading/Analytics",
-				"trading/CreateToken",
-				"trading/Fees",
+				"trading/analytics",
+				"trading/create-token",
+				"trading/fees",
 			],
 		},
 		{
@@ -31,11 +31,11 @@ const sidebars: SidebarsConfig = {
 			label: "Rewards",
 			items: [
 				"rewards/community-vault",
-				"rewards/Leaderboards",
-				"rewards/Referrals",
+				"rewards/leaderboards",
+				"rewards/referrals",
 			],
 		},
-		"Roadmap",
+		"roadmap",
 		{
 			type: "html",
 			value: "<br/><b>Others</b>",
