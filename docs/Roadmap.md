@@ -1,3 +1,10 @@
+---
+sidebar_position: 4
+id: roadmap
+name: Roadmap
+slug: /docs/roadmap
+---
+
 # Roadmap
 
 ## H1 2025
