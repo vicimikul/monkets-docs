@@ -35,7 +35,7 @@ Users can buy tokens by depositing ETH into the bonding curve. The price of the 
 
 Similarly, users can sell their tokens back to the bonding curve and receive ETH in return.
 
-Both activities are subject to a fee which can be found in the [Fees](/docs/trading/Fees) section.
+Both activities are subject to a fee which can be found in the [Fees](/docs/trading/fees) section.
 
 ### Deployment
 

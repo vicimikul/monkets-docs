@@ -19,8 +19,8 @@ Unichain is the newest blockchain that is being built on top of Ethereum. It is 
 
 ## How to use Lunipump?
 
-Deploy your first token using our guide on how to [Create a Token](/docs/trading/CreateToken).
+Deploy your first token using our guide on how to [Create a Token](/docs/trading/create-token).
 
 To learn more about the bonding curves check our [Bonding Curves](/docs/trading/bonding-curves) docs.
 
-To learn more about the rewards system check our [Leaderboards](/docs/rewards/Leaderboards) section.
+To learn more about the rewards system check our [Leaderboards](/docs/rewards/leaderboards) section.

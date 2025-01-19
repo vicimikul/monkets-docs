@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
-id: Fees
+id: fees
 name: Fees
-slug: /docs/trading/Fees
+slug: /docs/trading/fees
 ---
 
 # Fees

@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
-id: Referrals
+id: referrals
 name: Referrals
-slug: /docs/rewards/Referrals
+slug: /docs/rewards/referrals
 ---
 
 # Referrals
