@@ -27,7 +27,9 @@ The initial Market Cap of a Bonding Curve is approximately 2 ETH.
 
 The tokens have an approximate starting price of 0.000002 ETH.
 
-This is required to ensure that there's a starting price for the underlying token.
+All tokens can be viewed on the main dashboard.
+
+![Main Page](../../static/img/main_page.png)
 
 ### Trading
 
@@ -36,6 +38,8 @@ Users can buy tokens by depositing ETH into the bonding curve. The price of the 
 Similarly, users can sell their tokens back to the bonding curve and receive ETH in return.
 
 Both activities are subject to a fee which can be found in the [Fees](/docs/trading/fees) section.
+
+![Trading](../../static/img/bonding_curve.png)
 
 ### Deployment
 
