@@ -16,13 +16,15 @@ const sidebars: SidebarsConfig = {
 	// By default, Docusaurus generates a sidebar from the docs folder structure
 	tutorialSidebar: [
 		"introduction",
+		"getting-started",
+		"profiles",
 		{
 			type: "category",
 			label: "Trading",
 			items: [
+				"trading/create-token",
 				"trading/bonding-curves",
 				"trading/analytics",
-				"trading/create-token",
 				"trading/fees",
 			],
 		},
