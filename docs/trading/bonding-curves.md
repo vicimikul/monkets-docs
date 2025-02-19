@@ -23,13 +23,13 @@ There are 2 main types of bonding curves, and the type can be chosen when creati
 
 On token creation, an associated bonding curve is created and mints 1 billion tokens which will be used for trading.
 
-The initial Market Cap of a Bonding Curve is approximately 2 ETH.
+- Initial Market Cap of a Bonding Curve is approximately 2 ETH.
 
-The tokens have an approximate starting price of 0.000002 ETH.
+- Tokens have an approximate starting price of 0.000002 ETH.
 
 All tokens can be viewed on the main dashboard.
 
-![Main Page](../../static/img/main_page.png)
+![Main Page](../../static/img/new/board.png)
 
 ### Trading
 
@@ -39,8 +39,8 @@ Similarly, users can sell their tokens back to the bonding curve and receive ETH
 
 Both activities are subject to a fee which can be found in the [Fees](/docs/trading/fees) section.
 
-![Trading](../../static/img/bonding_curve.png)
+![Trading](../../static/img/new/token.png)
 
 ### Deployment
 
-Once there is 5.83 ETH in the bonding curve, the curve is filled and the remaining 200M tokens are deposited to the Uniswap pool, together with 5.55 ETH from the curve. The LP tokens are being used ot generate yield from the liquidity pool and will be used for further DeFi applications in the future.
+Once there is 5.83 ETH in the bonding curve, the curve is filled and the remaining 200M tokens are deposited to the Uniswap pool, together with 5.55 ETH from the curve. The LP tokens are being burned right after.

@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
 	title: "Lunipump Docs",
 	tagline: "Lunitics Trading Docs",
-	favicon: "img/logo-lunipump.svg",
+	favicon: "img/file_no_bg.svg",
 
 	// Set the production url of your site here
 	url: "https://your-docusaurus-site.example.com",
@@ -55,7 +55,7 @@ const config: Config = {
 			title: "Lunipump Docs",
 			logo: {
 				alt: "Lunipump Docs Logo",
-				src: "img/logo-lunipump.svg",
+				src: "img/file_no_bg.svg",
 			},
 			// Remove the Tutorial item since docs is now the main page
 			items: [],
