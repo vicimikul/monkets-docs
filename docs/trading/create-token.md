@@ -35,7 +35,7 @@ And couple of optional fields:
 - **Twitter**: The Twitter handle of your token.
 - **Discord**: The Discord handle of your token.
 
-![Create Token](../../static/img/create_token.png)
+![Create Token](../../static/img/new/create_token.png)
 
 _Notice_: the optional fields from above cannot be changed after the token is created.
 

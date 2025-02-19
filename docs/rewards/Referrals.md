@@ -7,16 +7,14 @@ slug: /docs/rewards/referrals
 
 # Referrals
 
+Why play alone when you can have a team?
+
 ## Generating Invite Codes
 
-### Closed Release
+- Users have a referral code generated to their account once they sign up.
+- Use this code to invite your friends and earn rewards as they are apeing around.
 
-Initially, only a selected group will be chosen to become ambassadors. This will allow them to generate refferal codes, which can be used to invite their community to the platform.
+## Benefits
 
-### Open Release
-
-In the near future, this functionality will be opened up to the public, allowing anyone to generate referral codes and invite their friends.
-
-## Benefits 
-
-Whenever someone that joined using your referral code receives points, you also receive a share of that. On top of that, you will be able to earn more points by climbing the referral leaderboard, but also having your referrals a the top of any of our leaderboards.
+- You get **10%** of the trading fees of your referrals for as long as they trade on the platform.
+- If your referral's token graduates, you receive **40%** of the graduation fee.
