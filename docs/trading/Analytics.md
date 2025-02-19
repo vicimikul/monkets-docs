@@ -7,13 +7,20 @@ slug: /docs/trading/analytics
 
 # Analytics
 
-## Bonding Curve Visualizers
+## Pro Trading Mode
 
-Our trading UI provides both a Trading View chart and a Bonding Curve Visualizer, to help you understand the dynamics of the bonding curve.
+A separated trading mode for the real degens. Here you're able to:
 
-![Bonding Curve Visualizer](../../static/img/bonding_curve_visualizer.png)
+- snipe newly created tokens
+- view tokens that are almost graduating
+- view tokens that are already graduated
+- instant buy any token
+- easily buy in batch
+- token analytics made easy
 
-## Token Analytics
+![Bonding Curve Visualizer](../../static/img/new/pro.png)
+
+## Token Page Analytics
 
 Key metrics for each token are available on the token page, including:
 
@@ -22,5 +29,6 @@ Key metrics for each token are available on the token page, including:
 - Liquidity
 - Market Cap
 - Holder Distribution
+- Unrealised PnL
 
-![Token Analytics](../../static/img/analytics.png)
+![Token Analytics](../../static/img/new/bonding_curve_fair.png)

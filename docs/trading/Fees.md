@@ -24,6 +24,6 @@ Every time a user buys or sells a token, they pay a fee of 1% of the transaction
 
 Whenever a token bonding curve is filled, a 0.33 ETH fee is being collected before deploying to Uniswap. This amount is being split between the protocol, the creator and the community vault.
 
-- 0.11 ETH is being collected by the protocol
-- 0.11 ETH is being collected by the creator
-- 0.11 ETH is being collected by the community vault
+- 20% is being collected by the protocol
+- 40% is being collected by the creator
+- 40% is being collected by the referer of the creator

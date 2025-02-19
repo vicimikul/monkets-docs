@@ -32,9 +32,10 @@ const sidebars: SidebarsConfig = {
 			type: "category",
 			label: "Rewards",
 			items: [
-				"rewards/community-vault",
-				"rewards/leaderboards",
+				"rewards/dev-rewards",
+				"rewards/buybacks",
 				"rewards/referrals",
+				"rewards/leaderboards",
 			],
 		},
 		"roadmap",
