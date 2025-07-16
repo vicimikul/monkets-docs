@@ -4,16 +4,19 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+// Check if we're in production (GitHub Pages) or development
+const isProd = process.env.NODE_ENV === "production";
+
 const config: Config = {
 	title: "Monkets Docs",
 	tagline: "Monkets Docs",
 	favicon: "img/file_no_bg.svg",
 
 	// Set the production url of your site here
-	url: "https://vicimikul.github.io",
+	url: isProd ? "https://vicimikul.github.io" : "http://localhost:3000",
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
-	baseUrl: "/monkets-docs/",
+	baseUrl: isProd ? "/monkets-docs/" : "/",
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
