@@ -8,20 +8,20 @@ import type * as Preset from "@docusaurus/preset-classic";
 const isProd = process.env.NODE_ENV === "production";
 
 const config: Config = {
-	title: "Monkets Docs",
-	tagline: "Monkets Docs",
+	title: "Lunipump Docs",
+	tagline: "Lunipump Trading Docs",
 	favicon: "img/file_no_bg.svg",
 
 	// Set the production url of your site here
 	url: isProd ? "https://vicimikul.github.io" : "http://localhost:3000",
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
-	baseUrl: isProd ? "/monkets-docs/" : "/",
+	baseUrl: isProd ? "/lunipump-docs/" : "/",
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
 	organizationName: "vicimikul", // Usually your GitHub org/user name.
-	projectName: "monkets-docs", // Usually your repo name.
+	projectName: "lunipump-docs", // Usually your repo name.
 
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
@@ -55,7 +55,7 @@ const config: Config = {
 		// Replace with your project's social card
 		image: "img/docusaurus-social-card.jpg",
 		navbar: {
-			title: "Monkets Docs",
+			title: "Lunipump Docs",
 			logo: {
 				alt: "Lunipump Docs Logo",
 				src: "img/file_no_bg.svg",
