@@ -16,5 +16,5 @@ Why play alone when you can have a team?
 
 ## Benefits
 
-- You get **10%** of the trading fees of your referrals for as long as they trade on the platform.
+- You get **25%** of the trading fees of your referrals for as long as they trade on the platform.
 - If your referral's token graduates, you receive **40%** of the graduation fee.
