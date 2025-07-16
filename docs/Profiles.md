@@ -2,7 +2,7 @@
 sidebar_position: 2
 id: profiles
 title: Profiles
-slug: /docs/profiles
+slug: /profiles
 ---
 
 # Profiles

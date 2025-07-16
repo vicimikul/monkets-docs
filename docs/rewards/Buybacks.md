@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 id: buybacks
 name: Buybacks
-slug: /docs/rewards/buybacks
+slug: /rewards/buybacks
 ---
 
 # Buyback & Burn

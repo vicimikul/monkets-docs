@@ -2,7 +2,7 @@
 sidebar_position: 4
 id: leaderboards
 name: Leaderboards
-slug: /docs/rewards/leaderboards
+slug: /rewards/leaderboards
 ---
 
 # Leaderboards
@@ -31,4 +31,4 @@ The volume leaderboard is a leaderboard that displays the top traders on the pla
 
 The referral leaderboard is a leaderboard that displays the top referrers on the platform based on the number of users they have referred.
 
-Read more about the [Referrals](/docs/rewards/referrals) system. -->
+Read more about the [Referrals](/rewards/referrals) system. -->

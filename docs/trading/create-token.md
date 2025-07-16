@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: create-token
 name: Create a Token
-slug: /docs/trading/create-token
+slug: /trading/create-token
 ---
 
 # Create a Token

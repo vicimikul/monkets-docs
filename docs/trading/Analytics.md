@@ -2,7 +2,7 @@
 sidebar_position: 3
 id: analytics
 name: Analytics
-slug: /docs/trading/analytics
+slug: /trading/analytics
 ---
 
 # Analytics

@@ -2,7 +2,7 @@
 sidebar_position: 2
 id: bonding-curves
 name: Bonding Curves
-slug: /docs/trading/bonding-curves
+slug: /trading/bonding-curves
 ---
 
 # Bonding Curves
@@ -37,7 +37,7 @@ Users can buy tokens by depositing ETH into the bonding curve. The price of the 
 
 Similarly, users can sell their tokens back to the bonding curve and receive ETH in return.
 
-Both activities are subject to a fee which can be found in the [Fees](/docs/trading/fees) section.
+Both activities are subject to a fee which can be found in the [Fees](/trading/fees) section.
 
 ![Trading](../../static/img/new/token.png)
 

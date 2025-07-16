@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 id: dev-rewards
 name: Dev Rewards
-slug: /docs/rewards/dev-rewards
+slug: /rewards/dev-rewards
 ---
 
 # Dev Rewards
