@@ -8,20 +8,20 @@ import type * as Preset from "@docusaurus/preset-classic";
 const isProd = process.env.NODE_ENV === "production";
 
 const config: Config = {
-	title: "Lunipump Docs",
-	tagline: "Lunipump Trading Docs",
-	favicon: "img/file_no_bg.svg",
+	title: "Monkets Docs",
+	tagline: "Monkets Trading Docs",
+	favicon: "img/monkets_logo.svg",
 
 	// Set the production url of your site here
 	url: isProd ? "https://vicimikul.github.io" : "http://localhost:3000",
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
-	baseUrl: isProd ? "/lunipump-docs/" : "/",
+	baseUrl: isProd ? "/monkets-docs/" : "/",
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
 	organizationName: "vicimikul", // Usually your GitHub org/user name.
-	projectName: "lunipump-docs", // Usually your repo name.
+	projectName: "monkets-docs", // Usually your repo name.
 
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
@@ -55,42 +55,15 @@ const config: Config = {
 		// Replace with your project's social card
 		image: "img/docusaurus-social-card.jpg",
 		navbar: {
-			title: "Lunipump Docs",
+			title: "Monkets Docs",
 			logo: {
-				alt: "Lunipump Docs Logo",
-				src: "img/file_no_bg.svg",
+				alt: "Monkets Docs Logo",
+				src: "img/monkets_logo.svg",
 			},
 			// Remove the Tutorial item since docs is now the main page
 			items: [],
 		},
-		// footer: {
-		// 	style: "dark",
-		// 	links: [
-		// 		{
-		// 			title: "Docs",
-		// 			items: [
-		// 				{
-		// 					label: "Tutorial",
-		// 					to: "/docs/introduction",
-		// 				},
-		// 			],
-		// 		},
-		// 		{
-		// 			title: "Community",
-		// 			items: [
-		// 				{
-		// 					label: "Discord",
-		// 					href: "https://discord.gg/epePrJTXrr",
-		// 				},
-		// 				{
-		// 					label: "X",
-		// 					href: "https://x.com/lunipump",
-		// 				},
-		// 			],
-		// 		},
-		// 	],
-		// 	copyright: `Copyright © ${new Date().getFullYear()} Lunipump, Inc. Built with Docusaurus.`,
-		// },
+
 		prism: {
 			theme: prismThemes.github,
 			darkTheme: prismThemes.dracula,

@@ -7,7 +7,7 @@ slug: /trading/bonding-curves
 
 # Bonding Curves
 
-Bonding Curves are the core of Lunipump. These have been carefully designed in-house to provide the best trading experience on Unichain.
+Bonding Curves are the core of Monkets. These have been carefully designed in-house to provide the best trading experience on Monad.
 
 ## Types
 

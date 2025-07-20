@@ -7,18 +7,18 @@ slug: /trading/create-token
 
 # Create a Token
 
-Anyone can create a token on Lunipump in just a couple of seconds.
+Anyone can create a token on Monkets in just a couple of seconds.
 
 ## About
 
 The token supply is fixed to 1 billion tokens and will is distrubted as following:
 
-- Approximately 800M goes to the Bonding Curve and are trabable on Lunipump.
+- Approximately 800M goes to the Bonding Curve and are trabable on Monkets.
 - The remaining 200M is reserved for the Uniswap initial liquidity required once the bonding curve is filled.
 
 ## Prerequisites
 
-To create a token, you need to have a wallet connected to Lunipump. You can connect your wallet by clicking on the _Connect_ button in the top right corner of the screen. There's no costs associated with creating a token but you need to have some ETH in your wallet to pay for the gas fees.
+To create a token, you need to have a wallet connected to Monkets. You can connect your wallet by clicking on the _Connect_ button in the top right corner of the screen. There's no costs associated with creating a token but you need to have some ETH in your wallet to pay for the gas fees.
 
 ## Creating a Token
 

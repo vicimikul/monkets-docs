@@ -47,12 +47,12 @@ const sidebars: SidebarsConfig = {
 		{
 			type: "link",
 			label: "Try the App",
-			href: "https://lunipump.xyz",
+			href: "https://monkeys.xyz",
 		},
 		{
 			type: "link",
 			label: "Follow us on Twitter",
-			href: "https://twitter.com/lunipump",
+			href: "https://twitter.com/monkets_xyz",
 		},
 		{
 			type: "link",
